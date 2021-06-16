@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/854e8d75-ef33-48af-9ac6-a5aa625dd9d9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/khairokomUploadFiles",
+    "appService.deploySubpath": "."
+}
