@@ -31,7 +31,7 @@ app.use(express.urlencoded({
 evokeRoutes(app);
 
 
-const port = process.env.PORT || 8888;
+const port =  8888;
 app.listen(port, () => {
   console.log('Connected to port ' + port)
 })
